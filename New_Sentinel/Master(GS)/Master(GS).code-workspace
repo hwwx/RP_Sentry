@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "judge.h": "c",
+            "rp_shoot.h": "c",
+            "can_protocol.h": "c",
+            "rp_gimbal.h": "c",
+            "rp_chassis.h": "c",
+            "stdbool.h": "c",
+            "crc.h": "c",
+            "stm32f4xx_hal.h": "c"
+        }
+    },
+    "extensions": {}
+}
